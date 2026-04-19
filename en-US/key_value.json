@@ -1,0 +1,7 @@
+{
+    "simple": "Simple value",
+    "nested": {
+        "key": "Value"
+    },
+    "new": "New value",
+}
