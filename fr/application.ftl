@@ -11,5 +11,3 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
-# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
-serviceworker-worker-unregister = Désinscrire
